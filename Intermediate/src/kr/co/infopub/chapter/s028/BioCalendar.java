@@ -1,3 +1,4 @@
+// 028. Math 클래스를 사용하여 신체 지수 구하기
 package kr.co.infopub.chapter.s028;
 
 public class BioCalendar {
