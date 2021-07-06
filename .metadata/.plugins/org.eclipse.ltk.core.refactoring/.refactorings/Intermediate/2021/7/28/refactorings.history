@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;kr.co.infopub.chapter.s031.TRUIT.java&apos; to &apos;FRUIT.java&apos;&#x0D;&#x0A;- Original project: &apos;Intermediate&apos;&#x0D;&#x0A;- Original element: &apos;kr.co.infopub.chapter.s031.TRUIT.java&apos;&#x0D;&#x0A;- Renamed element: &apos;kr.co.infopub.chapter.s031.FRUIT.java&apos;" description="Rename compilation unit &apos;TRUIT.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;kr.co.infopub.chapter.s031{TRUIT.java" name="FRUIT.java" references="false" stamp="1625526861966" version="1.0"/>
+</session>

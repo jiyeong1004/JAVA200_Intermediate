@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_Ty3IsLloEeu_mKCc4P_rTQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_Ty3IsbloEeu_mKCc4P_rTQ" bindingContexts="_Ty3Is7loEeu_mKCc4P_rTQ">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BioCalendar.java&quot; tooltip=&quot;Intermediate/src/kr/co/infopub/chapter/s030/BioCalendar.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Intermediate/src/kr/co/infopub/chapter/s030/BioCalendar.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BioCalendar.java&quot; tooltip=&quot;Intermediate/src/kr/co/infopub/chapter/s029/BioCalendar.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Intermediate/src/kr/co/infopub/chapter/s029/BioCalendar.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BioCalendar.java&quot; tooltip=&quot;Intermediate/src/kr/co/infopub/chapter/s028/BioCalendar.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Intermediate/src/kr/co/infopub/chapter/s028/BioCalendar.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FRUIT.java&quot; tooltip=&quot;Intermediate/src/kr/co/infopub/chapter/s031/FRUIT.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Intermediate/src/kr/co/infopub/chapter/s031/FRUIT.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BioCalendar.java&quot; tooltip=&quot;Intermediate/src/kr/co/infopub/chapter/s030/BioCalendar.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Intermediate/src/kr/co/infopub/chapter/s030/BioCalendar.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TRUIT.java&quot; tooltip=&quot;Intermediate/src/kr/co/infopub/chapter/s031/TRUIT.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Intermediate/src/kr/co/infopub/chapter/s031/TRUIT.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FruitMain.java&quot; tooltip=&quot;Intermediate/src/kr/co/infopub/chapter/s031/FruitMain.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Intermediate/src/kr/co/infopub/chapter/s031/FruitMain.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BioCalendar.java&quot; tooltip=&quot;Intermediate/src/kr/co/infopub/chapter/s029/BioCalendar.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Intermediate/src/kr/co/infopub/chapter/s029/BioCalendar.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BioCalendar.java&quot; tooltip=&quot;Intermediate/src/kr/co/infopub/chapter/s028/BioCalendar.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Intermediate/src/kr/co/infopub/chapter/s028/BioCalendar.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_Ty3IsbloEeu_mKCc4P_rTQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_UHq7ELloEeu_mKCc4P_rTQ" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="976" height="1038">
@@ -202,7 +202,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_UhtLsLloEeu_mKCc4P_rTQ" elementId="org.eclipse.ui.editorss" selectedElement="_UhtLsbloEeu_mKCc4P_rTQ">
-      <children xsi:type="basic:PartStack" xmi:id="_UhtLsbloEeu_mKCc4P_rTQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_QLSZ8N2XEeupd404yWHCLA">
+      <children xsi:type="basic:PartStack" xmi:id="_UhtLsbloEeu_mKCc4P_rTQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_29o4YN3bEeustZGi5Lb0IQ">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
@@ -219,12 +219,24 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_QLSZ8N2XEeupd404yWHCLA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="BioCalendar.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BioCalendar.java&quot; partName=&quot;BioCalendar.java&quot; title=&quot;BioCalendar.java&quot; tooltip=&quot;Intermediate/src/kr/co/infopub/chapter/s030/BioCalendar.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Intermediate/src/kr/co/infopub/chapter/s030/BioCalendar.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;27&quot; selectionOffset=&quot;3&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BioCalendar.java&quot; partName=&quot;BioCalendar.java&quot; title=&quot;BioCalendar.java&quot; tooltip=&quot;Intermediate/src/kr/co/infopub/chapter/s030/BioCalendar.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Intermediate/src/kr/co/infopub/chapter/s030/BioCalendar.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;156&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_29o4YN3bEeustZGi5Lb0IQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="FruitMain.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FruitMain.java&quot; partName=&quot;FruitMain.java&quot; title=&quot;FruitMain.java&quot; tooltip=&quot;Intermediate/src/kr/co/infopub/chapter/s031/FruitMain.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Intermediate/src/kr/co/infopub/chapter/s031/FruitMain.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;178&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
           <tags>active</tags>
           <tags>activeOnClose</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_fe3rYN3cEeustZGi5Lb0IQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="FRUIT.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FRUIT.java&quot; partName=&quot;FRUIT.java&quot; title=&quot;FRUIT.java&quot; tooltip=&quot;Intermediate/src/kr/co/infopub/chapter/s031/FRUIT.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Intermediate/src/kr/co/infopub/chapter/s031/FRUIT.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;267&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
         </children>
       </children>
     </sharedElements>
@@ -367,7 +379,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_UMNc0LloEeu_mKCc4P_rTQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_p8unoN2rEeu5Upvc9Jhypw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_Tzjsn7loEeu_mKCc4P_rTQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_w73ugN5wEeuXmZdmfCtb5Q" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_Tzjsn7loEeu_mKCc4P_rTQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_UMOD4LloEeu_mKCc4P_rTQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -404,7 +416,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_UMOD57loEeu_mKCc4P_rTQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_p8zgIN2rEeu5Upvc9Jhypw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_TzjsQLloEeu_mKCc4P_rTQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_w79OEN5wEeuXmZdmfCtb5Q" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_TzjsQLloEeu_mKCc4P_rTQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_UMOD6LloEeu_mKCc4P_rTQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -3233,7 +3245,7 @@
   </addons>
   <addons xmi:id="_Ty3Iw7loEeu_mKCc4P_rTQ" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_Ty_rkLloEeu_mKCc4P_rTQ" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_wMGecN5wEeuXmZdmfCtb5Q" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_TzbJYLloEeu_mKCc4P_rTQ" elementId="org.eclipse.ui.category.edit" name="Edit"/>
   <categories xmi:id="_TzbJYbloEeu_mKCc4P_rTQ" elementId="org.eclipse.wb.core.actions.category" name="WindowBuilder Pro" description="WindowBuilder Pro actions"/>
