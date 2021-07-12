@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s029;
+package kr.co.infopub.chapter.s037;
 
-public class BioCalendar {
+public class BioSwitch {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
