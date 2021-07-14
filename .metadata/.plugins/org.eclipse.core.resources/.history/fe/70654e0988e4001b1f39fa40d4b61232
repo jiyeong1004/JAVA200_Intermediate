@@ -1,0 +1,9 @@
+// 039. switch ~ case 로 카드값 구하기
+package kr.co.infopub.chapter.s039;
+
+public class SwitchCondition {
+
+	public static void main(String[] args) {
+		
+	}
+}
