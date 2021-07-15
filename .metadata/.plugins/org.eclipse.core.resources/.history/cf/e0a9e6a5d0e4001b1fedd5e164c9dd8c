@@ -1,0 +1,11 @@
+package kr.co.infopub.chapter.s040;
+
+// String switch
+public class SwitchStringCondition {
+
+	public static void main(String[] args) {
+		String money = "USD";
+		double result = toMoney(money);
+		System.out.printf("%s => %f\n", money, result);
+	}
+}
