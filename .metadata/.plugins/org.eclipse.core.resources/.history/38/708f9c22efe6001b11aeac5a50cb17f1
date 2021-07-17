@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s033;
+package kr.co.infopub.chapter.s041;
 
-public class GeoPoint {
+public class JCalendar {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
