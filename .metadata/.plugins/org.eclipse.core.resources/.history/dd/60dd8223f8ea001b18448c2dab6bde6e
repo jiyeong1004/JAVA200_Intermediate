@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s039;
+package kr.co.infopub.chapter.s047;
 
-public class SwitchCondition {
+public class BioRandom {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
