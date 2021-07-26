@@ -1,9 +1,0 @@
-package kr.co.infopub.chapter.s041;
-
-public class JCalendar {
-
-	public static void main(String[] args) {
-		JCalencar hc = new JCalendar();
-		System.out.println(hc.isLeapYear(2017));
-	}
-}
