@@ -1,8 +1,0 @@
-package kr.co.infopub.chapter.s045;
-
-public class EvenOdd {
-
-	public static void main(String[] args) {
-		showOddnEvenf(122);
-	}
-}
