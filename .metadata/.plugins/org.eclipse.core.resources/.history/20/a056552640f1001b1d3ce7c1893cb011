@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s046;
+package kr.co.infopub.chapter.s054;
 
-public class BioRandom {
+public class ForeachLotto {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
