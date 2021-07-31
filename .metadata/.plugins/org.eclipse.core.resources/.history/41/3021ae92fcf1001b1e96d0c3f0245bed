@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s048;
+package kr.co.infopub.chapter.s056;
 
-public class Contraction {
+public class LottoList {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

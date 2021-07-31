@@ -1,0 +1,9 @@
+// 056. 배열보다 편리한 List 사용하기
+package kr.co.infopub.chapter.s056;
+
+public class LottoList {
+
+	public static void main(String[] args) {
+		
+	}
+}
