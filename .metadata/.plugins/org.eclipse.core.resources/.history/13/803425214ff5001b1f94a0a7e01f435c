@@ -1,0 +1,10 @@
+package kr.co.infopub.chapter.s060;
+
+public class ForLambdaCondition {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
