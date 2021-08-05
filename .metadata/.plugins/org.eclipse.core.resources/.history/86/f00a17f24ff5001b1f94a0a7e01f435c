@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s052;
+package kr.co.infopub.chapter.s061;
 
-public class BitNShiftMain {
+public class BitShifting {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
