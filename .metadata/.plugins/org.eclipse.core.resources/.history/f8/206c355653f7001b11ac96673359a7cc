@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s054;
+package kr.co.infopub.chapter.s063;
 
-public class ForeachLotto {
+public class FinallyTryCatch {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
