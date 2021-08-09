@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s055;
+package kr.co.infopub.chapter.s064;
 
-public class ForeachLotto {
+public class UsingObject {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
