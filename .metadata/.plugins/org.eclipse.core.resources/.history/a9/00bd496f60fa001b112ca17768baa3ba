@@ -1,0 +1,10 @@
+package kr.co.infopub.chapter.s066;
+
+public class StringMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
