@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s060;
+package kr.co.infopub.chapter.s069;
 
-public class ForLambdaCondition {
+public class StringBufferMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
