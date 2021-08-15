@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s063;
+package kr.co.infopub.chapter.s071;
 
-public class FinallyTryCatch {
+public class SystemTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
