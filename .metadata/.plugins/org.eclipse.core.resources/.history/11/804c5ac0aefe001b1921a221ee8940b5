@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s064;
+package kr.co.infopub.chapter.s073;
 
-public class UsingObject {
+public class MathTestMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
