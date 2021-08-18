@@ -1,0 +1,9 @@
+// 074. Calendar로 살아온 날 구하기
+package kr.co.infopub.chapter.s074;
+
+public class CalendarTest {
+
+	public static void main(String[] args) {
+		
+	}
+}

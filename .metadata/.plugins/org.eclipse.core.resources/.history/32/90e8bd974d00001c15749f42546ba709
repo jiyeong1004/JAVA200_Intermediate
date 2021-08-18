@@ -1,0 +1,25 @@
+// 074. Calendar로 살아온 날 구하기
+package kr.co.infopub.chapter.s074;
+
+import java.util.Calendar;
+import java.util.Date;
+
+public class CalendarTest {
+
+	public static void main(String[] args) {
+		long millis = System.currentTimeMillis();  // 1970.1.1부터 경과 시간 msec
+		System.out.println(millis / 1000 / 24 / 60 / 60);  // 며칠 경과
+		
+		Date d = new Date();  // 오늘
+		System.out.println(d);
+		Date dd = new Date(d.getTime() + 24 * 60 * 60 * 1000);  // 하루 후
+		System.out.println(dd);
+		
+		Calendar cal1970 = Calendar.getInstance();
+		cal1970.set(1970, 1 - 1, 1);  // 0월 ~ 11월, 1970.1.1
+		
+		Calendar today = Calendar.getInstance();  // 오늘
+		printCalendar(today);
+		
+	}
+}
