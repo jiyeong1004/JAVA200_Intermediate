@@ -1,0 +1,28 @@
+// 075. Calendar와 String 사이 날짜 변환하기
+package kr.co.infopub.chapter.s075;
+
+import java.util.Calendar;
+import java.util.TimeZone;
+
+public class RestDay {
+
+	public static void main(String[] args) {
+		String st = "2017-06-13";
+		Calendar d2 = todate(st);
+		System.out.println(toYMD(d2));
+		
+		String st2 = goGo(st, -7);  // -7일
+		System.out.println(st2);
+		
+		Calendar d3 = todate(st2);
+		System.out.println(toYMD(d3));
+		
+		TimeZone tz = TimeZone.getDefault();  // Asia / Seoul 현재 컴퓨터의 시간존
+		Calendar cal = Calendar.getInstance(tz);  // 타임존에 대한 오늘
+		System.out.println(toYMD2(cal));
+		
+		// America / New_York
+		TimeZone tzNY = TimeZone.getTimeZone("America / New_York");
+		
+	}
+}

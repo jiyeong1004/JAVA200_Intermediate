@@ -1,0 +1,11 @@
+package kr.co.infopub.chapter.s075;
+
+import java.util.Calendar;
+
+public class RestDay {
+
+	public static void main(String[] args) {
+		String st = "2017-06-13";
+		Calendar d2 = todate(st);
+	}
+}

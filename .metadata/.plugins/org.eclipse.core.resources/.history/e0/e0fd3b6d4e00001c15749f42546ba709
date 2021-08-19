@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s067;
+package kr.co.infopub.chapter.s075;
 
-public class StringTest {
+public class RestDay {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
