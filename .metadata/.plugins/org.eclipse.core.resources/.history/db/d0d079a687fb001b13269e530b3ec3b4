@@ -1,9 +1,0 @@
-// 069. StringBuffer로 문자열 수정, 변경, 추가하기
-package kr.co.infopub.chapter.s069;
-
-public class StringBufferMain {
-
-	public static void main(String[] args) {
-		
-	}
-}

@@ -1,0 +1,16 @@
+// 076. Character를 이용하여 숫자와 특수문자 가려내기
+package kr.co.infopub.chapter.s076;
+
+public class UsingCharacterMain {
+
+	public static void main(String[] args) {
+		Character chr1 = new Character('W');
+		Character chr2 = new Character('9');  // 48 + 9
+		
+		if(Character.isLetter(chr1.charValue())) {
+			System.out.print("1 : " + chr1.charValue());  // 'W'
+		}
+		System.out.print(" ");
+		
+	}
+}
