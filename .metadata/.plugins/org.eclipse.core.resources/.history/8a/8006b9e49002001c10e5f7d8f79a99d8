@@ -29,10 +29,8 @@ public class ArrayInit {
 		System.arraycopy(c, 0, e, 0, c.length);  // Deep Copy
 		Arrays.sort(e);
 		print(e);
-		
 		e = new int[] {1, 2, 3, 4, 5, 6};  // 동적 배열 다시 초기화 가능
 		print(e);
-		
 		int index = Arrays.binarySearch(e, 5);
 		System.out.println(index);
 	}  // main

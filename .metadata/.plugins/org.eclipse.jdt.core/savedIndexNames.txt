@@ -17,4 +17,3 @@ INDEX VERSION 1.131+D:\JavaProjects\JAVA200Á¦\JAVA200_Intermediate\.metadata\.pl
 2613800718.index
 3298297436.index
 248348808.index
-2471877961.index
