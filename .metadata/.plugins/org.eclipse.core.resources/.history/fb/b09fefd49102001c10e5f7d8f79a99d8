@@ -1,0 +1,20 @@
+package kr.co.infopub.chapter.s078;
+
+public class StringArray {
+
+	public static void main(String[] args) {
+		String[] myNum = new String[] {"2016-08-17", "2016-09-17", "2016-03-17"};
+		String[] myNum2 = {"2016-08-17", "2016-09-17", "2016-03-17"};
+		System.out.println(myNum2[0]);
+		print(myNum);
+		// myNum2 = {"2016-08-17", "2016-09-17", "2016-03-17", "2016-04-17"};  // 다시 초기화 불가
+		myNum = new String[] {"2016-08-17", "2016-09-17", "2016-03-17", "2016-04-17"};
+	}
+	
+	public static void print(String [] tos) {
+		for(String ss : tos) {
+			System.out.printf(ss + "\t");
+		}
+		System.out.println();
+	}
+}
