@@ -1,0 +1,9 @@
+// 079. 2차원 배열 이해하기
+package kr.co.infopub.chapter.s079;
+
+public class ArrayTwoInit {
+
+	public static void main(String[] args) {
+		System.out.println("// 2차원 배열 방법 1");
+	}
+}

@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s072;
+package kr.co.infopub.chapter.s079;
 
-public class SystemPropertyTest {
+public class ArrayTwoInit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
