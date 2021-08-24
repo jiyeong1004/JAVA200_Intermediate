@@ -1,6 +1,6 @@
-package kr.co.infopub.chapter.s073;
+package kr.co.infopub.chapter.s080;
 
-public class MathTestMain {
+public class EasyBoxingMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

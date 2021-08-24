@@ -1,0 +1,10 @@
+// 080. 박싱, 언박싱으로 기본 타입을 참조 타입으로 변환하기
+package kr.co.infopub.chapter.s080;
+
+// Boxing / Unboxing
+public class EasyBoxingMain {
+
+	public static void main(String[] args) {
+		int intNm1 = 123;
+	}
+}
